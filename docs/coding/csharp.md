@@ -1,7 +1,5 @@
 # C# Coding Standards
 
-## Change
-
 ## Sections
 - [Naming](#naming)
   - [Abbreviations](#abbreviations)
